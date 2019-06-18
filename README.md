@@ -1,2 +1,2 @@
 # NodeExercises
-Some nodes exercises from learnyounode
+Some node exercises from learnyounode
