@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/CarlosRosalesF/NodeExercises#readme",
   "dependencies": {
-    "bl": "^3.0.0"
+    "bl": "^3.0.0",
+    "strftime": "^0.10.0"
   }
 }
