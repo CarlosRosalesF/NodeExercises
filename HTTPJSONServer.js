@@ -31,3 +31,5 @@ http.createServer(function(req, res) {
     }
   
 }).listen(process.argv[2])
+
+console.log("Server listing in port: "+process.argv[2])
